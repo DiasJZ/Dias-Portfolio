@@ -1,4 +1,6 @@
 import { useState } from "react"
+import React from "react"
+import App from "../App"
 
 function Home(e) {
     <div>
@@ -27,3 +29,5 @@ function Home(e) {
     </header>
     </div>
 }
+
+export default Home
